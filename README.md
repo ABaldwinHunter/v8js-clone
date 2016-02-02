@@ -14,7 +14,6 @@ The extension allows you to execute Javascript code in a secure sandbox from PHP
 If you're running PHP 5.x, see the [master branch](https://github.com/preillyme/v8js/tree/master)
 of this repository.
 
-
 Minimum requirements
 --------------------
 
